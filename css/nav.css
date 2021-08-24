@@ -1,0 +1,15 @@
+#mainimg{
+    background-color: aliceblue;
+    padding: 0.2vw;
+    margin-left: 1vw;
+}
+nav form a{
+    border: 1px solid white;
+    color: rgb(255, 255, 255);
+    padding: 0.5vw;
+    text-decoration: none;
+}
+nav form a:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
